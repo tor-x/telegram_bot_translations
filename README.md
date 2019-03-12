@@ -15,6 +15,8 @@ copy files from 'en' folder to the folder of your language and translate all lan
 
 DO NOT TRANSLATE ANY SERVICE WORDS AND HTML TAGS:
 
+Keep words in quotes left side if arrow  =>
+
 Words in braces  			--- {locale}
 
 Words after colon with no space 	--- :locale
