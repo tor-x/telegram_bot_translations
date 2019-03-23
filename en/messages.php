@@ -59,6 +59,6 @@ return [
 
     "already_exported"      => "<b>Your kyc has already been submitted!</b>",
 
-    'kyc_wiped'             => "<b>Your data was rejected. Please, pass KYC process again, uploading all the requested images.</b>",
-    'kyc_accepted'          => "<b>Your KYC approved - now you can contribute to TOR-X Network => <a href='https://tor-x.network/dashboard'>HERE</a>  </b>"
+    'kyc_wiped'             => "<b>Your data was rejected with reason ':reason'. Please, pass KYC process again, uploading all the requested images.</b>",
+    'kyc_accepted'          => "<b>Your KYC approved - now you can contribute to TOR-X Network</b> <a href='https://tor-x.network/dashboard'>HERE</a>"
 ];
